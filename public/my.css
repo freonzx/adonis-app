@@ -1,0 +1,42 @@
+.navbar {
+  background-color: rgba(0,0,0,0.9) !important;
+}
+
+.body {
+  font-size: 20px;
+  text-align: left;
+}
+
+.li-border {
+  margin-bottom: 5px;
+  border-left: 8px solid rgba(0,0,150,0.75);
+}
+
+.pg-header {
+  font-family: Nunito, sans-serif, Helvetica;
+  font-size: 40px;
+}
+
+.back-btn {
+  margin-top: 45px;
+  font-size: 23px;
+}
+
+.posts-div a:link {
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  color: black;
+}
+
+.posts-div a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.posts-div a:hover {
+  text-decoration: none;
+  color: #1773FF;
+}
