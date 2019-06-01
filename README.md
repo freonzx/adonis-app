@@ -20,3 +20,7 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Sample Image
+
+![sample](sample.png)
